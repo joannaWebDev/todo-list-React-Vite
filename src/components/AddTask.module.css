@@ -1,0 +1,9 @@
+.addTaskContainer {
+    margin: 5em auto;
+    display: flex;
+    gap:2em;
+}
+
+.inputText {
+    flex: 1;
+}
